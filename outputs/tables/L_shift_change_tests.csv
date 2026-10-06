@@ -1,0 +1,4 @@
+score,rho_change_vs_auc_change,p_permutation_one_sided,n_shifted_settings
+TaskFit,0.7142857142857144,0.0295,8
+q_shift,0.8095238095238096,0.0114,8
+pilot,-0.6190476190476191,0.9514,8

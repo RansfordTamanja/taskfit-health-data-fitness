@@ -1,0 +1,7 @@
+predictor,MAE
+TaskFit_fixed (isotonic),0.07944993526052486
+B_pilot (isotonic),0.06285609783274025
+B_profile (isotonic),0.07879329725719471
+TaskFit_learned,0.07233971590495551
+TaskFit_plus_pilot,0.05932325259377196
+constant (mean retention),0.06962247652098366

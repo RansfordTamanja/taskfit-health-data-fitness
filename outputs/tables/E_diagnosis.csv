@@ -1,0 +1,8 @@
+degradation,instances,lowest_dimension_correct,most_common_lowest
+frac,11,0.5454545454545454,q_size
+pos_keep,16,0.5,q_size
+mcar,8,0.5,q_comp
+mnar,6,0.0,q_label
+label,9,0.7777777777777778,q_label
+sub_keep,7,0.8571428571428571,q_rep
+selbias,6,0.3333333333333333,q_rep

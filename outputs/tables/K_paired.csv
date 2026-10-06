@@ -1,0 +1,2 @@
+comparison,difference,ci_lo,ci_hi,p_one_sided
+TaskFit+pilot minus pilot (rho with retention),0.07204718820899958,0.01849387118929034,0.12806669695086656,0.0045
